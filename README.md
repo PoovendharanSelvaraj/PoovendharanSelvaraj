@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PoovendharanSelvaraj
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on MERN 
 - 📫 How to reach me ...
 
 <!---
