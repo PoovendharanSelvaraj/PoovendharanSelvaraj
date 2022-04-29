@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="600" height="200" src="https://user-images.githubusercontent.com/97455003/165468010-121b63d2-3791-44fe-9ff8-848117ffd5e0.png">
 <h1 align="center">Hi 👋, I'm Poovendharan Selvaraj</h1>
 <h3 align="center">Aspiring full stack web developer specialized in MERN stack and JavaScript. Passionate about learning and building new things. Looking forward to work as a software development engineer in a product based company.</h3>
 <h1 align="center"><a href="https://drive.google.com/file/d/13_NHgW49KWm_cqI75iCappRrzxcbh5ra/view?usp=sharing" target="blank">Resume</a></h1>
